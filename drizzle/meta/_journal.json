@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789493574140,
+      "tag": "0000_striped_punisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789493702669,
+      "tag": "0001_dear_forge",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789494310139,
+      "tag": "0002_smiling_pandemic",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789495620386,
+      "tag": "0003_sharp_layla_miller",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1789668076853,
+      "tag": "0004_chilly_sally_floyd",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1789668233120,
+      "tag": "0005_cloudy_gargoyle",
+      "breakpoints": true
+    }
+  ]
+}
